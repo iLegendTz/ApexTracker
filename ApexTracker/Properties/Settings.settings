@@ -9,7 +9,7 @@
       <Value Profile="(Default)">0</Value>
     </Setting>
     <Setting Name="color" Type="System.Drawing.Color" Scope="User">
-      <Value Profile="(Default)">White</Value>
+      <Value Profile="(Default)">Black</Value>
     </Setting>
     <Setting Name="darkMode" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
